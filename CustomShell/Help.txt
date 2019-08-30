@@ -1,0 +1,10 @@
+- dir => Shows all the content of the current working directory
+- ls => Same as dir
+- cd => Print current directory
+- pwd => Same as cd
+- cd .. => goes up in the folder hierarchy
+- cd FolderName => goes in the folder FolderName
+- del FileName => delete a specific file called FileName
+- mv FileName path => move the file FileName to Path
+- quit => close the program
+- exit => same as quit
